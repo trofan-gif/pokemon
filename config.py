@@ -1,2 +1,3 @@
-token = "Token"
+token = "TOKEN"
+
 
